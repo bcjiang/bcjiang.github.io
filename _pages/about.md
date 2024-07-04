@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science at the Johns Hopkins University. My research interests include AI-assisted medical imaging (particularly ultrasound & photoacoustic imaging), and robotic/image-guided medical procedures. I am mainly advised by Dr. Emad M. Boctor at [MUSiiC Research Lab](https://musiic.lcsr.jhu.edu/), and co-advised by Dr. Mathias Unberath and Dr. Russell H. Taylor, in the [Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/). 
+I am a PhD student in Computer Science at the Johns Hopkins University. My research interests include AI-assisted medical imaging (particularly ultrasound & photoacoustic imaging), and robotic/image-guided medical procedures. I am advised by Dr. Emad M. Boctor at [MUSiiC Research Lab](https://musiic.lcsr.jhu.edu/), and co-advised by Dr. Mathias Unberath and Dr. Russell H. Taylor, in the [Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/). 
 
 ## Education
 
