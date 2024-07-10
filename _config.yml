@@ -21,7 +21,7 @@ repository               : "bcjiang/bcjiang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo1.jpg"
+  avatar           : "photo1_new.jpg"
   name             : "Baichuan Jiang"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
